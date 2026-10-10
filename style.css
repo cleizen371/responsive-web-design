@@ -1,0 +1,36 @@
+body {
+  background-color: burlywood;
+}
+
+header, h2, footer {
+  text-align: center;
+}
+
+hr {
+  height: 3px;
+  background-color: red;
+  width: 90%;
+}
+
+table {
+  width: 100%;
+}
+
+th {
+  text-align: left;
+}
+
+td {
+  text-align: right
+}
+
+.container {
+  display: inline-block;
+  background-color: rgb(239, 206, 124);
+  width: 500px;
+  margin: 30px 90px;
+}
+
+.table-container {
+  margin: 40px 20px 40px 20px;
+}
